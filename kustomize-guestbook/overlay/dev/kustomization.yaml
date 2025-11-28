@@ -14,7 +14,7 @@ bases:
 
 images:
   - name: gcr.io/google-samples/gb-frontend:v5
-    newTag: "0.1"
+    newTag: "v5"
 
 replicas:
   - name: guestbook-ui
